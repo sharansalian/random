@@ -1,0 +1,138 @@
+{
+  "pageData": {
+    "navbar": {
+      "logo": "https://cdn.pixelbin.io/v2/potlee/erase.bg(i:ecommerce)/jfs.jpeg",
+      "button": {
+        "variant": "custom"
+      }
+    },
+    "sidebar": {
+      "activeTab": {
+        "icons": {
+          "color": {
+            "tint": "t.tint(c:f2994a)"
+          }
+        },
+        "background": "#ffead6",
+        "hover": {
+          "background": "#ffd6b0"
+        }
+      }
+    },
+    "dashboard": {
+      "statistics": {
+        "icons": {
+          "color": {
+            "tint": "t.tint(c:f2994a)"
+          }
+        }
+      }
+    },
+    "transactio": {
+      "button": {
+        "color": ""
+      }
+    }
+  },
+  "themeStyle": {
+    "createTheme": {
+      "palette": {
+        "primary": {
+          "main": "#251b0c",
+          "accent": "#c27122"
+        },
+        "background": {
+          "paper": "#fff",
+          "default": "#fae4c32e"
+        }
+      },
+      "muiButton": {
+        "root": {
+          "variant": {
+            "contained": {
+              "primary": {
+                "background": "#d8aa67",
+                "textColor": "#251b0c",
+                "hover": {
+                  "background": "#d8aa67"
+                },
+                "disabled": {
+                  "background": "#d8aa6782",
+                  "textColor": "#251b0c7a"
+                }
+              },
+              "secondary": {
+                "background": "#d8aa6730",
+                "textColor": "#6f542c",
+                "hover": {
+                  "background": "#d8aa6730"
+                },
+                "disabled": {
+                  "background": "#d8aa672e",
+                  "textColor": ""
+                }
+              }
+            },
+            "outlined": {},
+            "text": {},
+            "custom": {
+              "background": "white",
+              "textColor": "#6f542c",
+              "hover": {
+                "background": "white"
+              }
+            }
+          }
+        }
+      },
+      "muiAppbar": {
+        "root": {
+          "background": "#d8aa67"
+        }
+      },
+      "muiTypography": {
+        "defaultProps": {
+          "textColor": "#251b0c"
+        },
+        "root": {
+          "variant": {
+            "subtitle3": {
+              "textColor": "rgba(64,29,12,0.78)"
+            },
+            "subtitle2": {
+              "textColor": "#401d0c"
+            },
+            "body3": {
+              "textColor": "#401d0cad"
+            }
+          }
+        }
+      },
+      "muiContainer": {
+        "root": {
+          "borderRadius": "12px",
+          "border": "1px solid gold",
+          "padding": "0"
+        }
+      },
+      "muiOutlinedInput": {
+        "root": {
+          "focus": {
+            "border": "1px solid #d8aa67"
+          }
+        }
+      },
+      "muiInputLabel": {
+        "root": {
+          "textColor": "#251b0c"
+        }
+      },
+      "muiAvatar": {
+        "root": {
+          "background": "#d8aa6730",
+          "textColor": "#d8aa67"
+        }
+      }
+    }
+  }
+}
